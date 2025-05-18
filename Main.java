@@ -1,4 +1,4 @@
-public class FirstHW {
+public class Main {
     public static void main(String[] args) {
         System.out.println("Filipp Voronov");
         String firstName = "Filipp";
