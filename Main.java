@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Filipp Voronov");
-        String firstName = "Filipp";
-        String lastNane = "Voronov";
+        System.out.println("Vitaly Panasenko");
+        String firstName = "Vitaly";
+        String lastNane = "Panasenko";
         System.out.println(firstName + " " + lastNane);
 
         int income = 44000;
